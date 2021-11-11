@@ -1,0 +1,16 @@
+h1, h2{
+    text-align: center;
+}
+
+h2{
+    background-color: lightblue;
+}
+
+h2 span{
+    background-color: lightcoral;
+}
+
+img{
+    height: 250px;
+    width: auto;
+}
